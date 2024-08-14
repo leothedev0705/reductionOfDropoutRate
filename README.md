@@ -62,32 +62,9 @@ Manage enrollments and schedules for flexible schooling options.
 Student Support and Engagement App:
 
 Access counseling resources, motivational content, and academic goal-setting tools.
-Project Structure
-plaintext
-Copy code
-student-dropout-reduction-suite/
-│
-├── backend/               # Server-side code and AI models
-│   ├── controllers/       # API controllers
-│   ├── models/            # Database models
-│   ├── routes/            # API routes
-│   └── ...                # Other backend files
-│
-├── frontend/              # Client-side code for web applications
-│   ├── components/        # React components
-│   ├── pages/             # Web pages
-│   └── ...                # Other frontend files
-│
-├── mobile-app/            # Code for the mobile learning application
-│   ├── screens/           # Mobile app screens
-│   └── ...                # Other mobile app files
-│
-├── community-hub/         # Code for the community learning hub platform
-│   └── ...                # Platform-specific files
-│
-├── docs/                  # Documentation files
-│
-└── README.md              # Project overview and instructions
+
+
+
 
 ## Installation
 To set up the project locally:
