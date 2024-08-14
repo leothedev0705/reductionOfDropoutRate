@@ -50,57 +50,51 @@ To set up the project locally:
 
 2. **Navigate to the project directory:**
    ```bash
-cd student-dropout-reduction-suite
+   cd student-dropout-reduction-suite
 
 3. **Install dependencies:**
-
    ```bash
-# For the backend
-cd backend
-npm install
+   //For the backend:
+   cd backend
+   npm install
 
-# For the frontend
-cd ../frontend
-npm install
+   //For the frontend:
+   cd ../frontend
+   npm install
 
 4.**Set up environment variables:**
-
 Create a .env file in the root directory and add the required environment variables as outlined in .env.example.
 
 5.**Start the development server:**
-npm start
+
+```bash
+   npm start
 
 ## Usage
-**AI-Driven Early Warning System:**
+AI-Driven Early Warning System:
 
 Access the dashboard to view at-risk students and receive intervention recommendations.
-
-**Community Learning Hub Platform:**
+Community Learning Hub Platform:
 
 Log in to access online resources, tutoring sessions, and community forums.
-
-**Mobile Learning Application:**
+Mobile Learning Application:
 
 Download the mobile app and begin personalized learning journeys.
-
-**Financial Support Management System:**
+Financial Support Management System:
 
 Use the web interface to apply for financial aid and track disbursements.
-
-**Parental Engagement Portal:**
+Parental Engagement Portal:
 
 Log in to view student progress, communicate with teachers, and access educational resources.
-
-**Flexible Schooling Management System:**
+Flexible Schooling Management System:
 
 Manage enrollments and schedules for flexible schooling options.
-
-**Student Support and Engagement App:**
+Student Support and Engagement App:
 
 Access counseling resources, motivational content, and academic goal-setting tools.
-
-## Project Structure:
-
+Project Structure
+plaintext
+Copy code
 student-dropout-reduction-suite/
 │
 ├── backend/               # Server-side code and AI models
@@ -124,5 +118,3 @@ student-dropout-reduction-suite/
 ├── docs/                  # Documentation files
 │
 └── README.md              # Project overview and instructions
-
-
