@@ -40,36 +40,6 @@ This project aims to develop a suite of software tools to address and reduce stu
    - Counselling resources and motivational content.
    - Tools for setting and tracking academic goals.
 
-## Installation
-To set up the project locally:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/student-dropout-reduction-suite.git
-  
-
-2. **Navigate to the project directory:**
-   ```bash
-   cd student-dropout-reduction-suite
-
-3. **Install dependencies:**
-   ```bash
-   //For the backend:
-   cd backend
-   npm install
-
-   //For the frontend:
-   cd ../frontend
-   npm install
-
-4.**Set up environment variables:**
-Create a .env file in the root directory and add the required environment variables as outlined in .env.example.
-
-5.**Start the development server:**
-
-```bash
-   npm start
-
 ## Usage
 AI-Driven Early Warning System:
 
@@ -118,3 +88,34 @@ student-dropout-reduction-suite/
 ├── docs/                  # Documentation files
 │
 └── README.md              # Project overview and instructions
+
+## Installation
+To set up the project locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/student-dropout-reduction-suite.git
+  
+
+2. **Navigate to the project directory:**
+   ```bash
+   cd student-dropout-reduction-suite
+
+3. **Install dependencies:**
+   ```bash
+   //For the backend:
+   cd backend
+   npm install
+
+   //For the frontend:
+   cd ../frontend
+   npm install
+
+4.**Set up environment variables:**
+Create a .env file in the root directory and add the required environment variables as outlined in .env.example.
+
+5.**Start the development server:**
+
+```bash
+   npm start
+
