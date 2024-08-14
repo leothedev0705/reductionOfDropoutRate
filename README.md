@@ -5,11 +5,10 @@ This project aims to develop a suite of software tools to address and reduce stu
 
 ## Table of Contents
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+- [Installation](#installation)
+
+    
 
 ## Features
 1. **AI-Driven Early Warning System**
@@ -91,8 +90,7 @@ To set up the project locally:
 4.**Set up environment variables:**
 Create a .env file in the root directory and add the required environment variables as outlined in .env.example.
 
+
 5.**Start the development server:**
-
 ```bash
-   npm start
-
+npm install
